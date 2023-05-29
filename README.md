@@ -19,3 +19,5 @@
  - source006 [https://rsshub.app/economist/china](https://rsshub.app/economist/china) -> [economist_china.xml](rss/economist_china.xml)
  - source007 [https://rsshub.app/economist/international](https://rsshub.app/economist/international) -> [economist_international.xml](rss/economist_international.xml)
  - source008 [https://rsshub.app/economist/briefing](https://rsshub.app/economist/briefing) -> [economist_briefing.xml](rss/economist_briefing.xml)
+ - source009 [https://rsshub.app/economist/business](https://rsshub.app/economist/business) -> [economist_business.xml](rss/economist_business.xml)
+ - source010 [https://rsshub.app/economist/finance-and-economics](https://rsshub.app/economist/finance-and-economics) -> [economist_finance-and-economics.xml](rss/economist_finance-and-economics.xml)
