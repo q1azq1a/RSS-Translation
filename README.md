@@ -12,6 +12,10 @@
 ## 已转换翻译源
 
  - source001 [https://rsshub.rssforever.com/reuters/world](https://rsshub.rssforever.com/reuters/world) -> [Reuters_world.xml](rss/Reuters_world.xml)
- - source002 [https://rsshub.rssforever.com/reuters/world](https://rsshub.rssforever.com/reuters/world) -> [Reuters_china.xml](rss/Reuters_china.xml)
+ - source002 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [Reuters_china.xml](rss/Reuters_china.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature.xml](rss/nature.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories.xml](rss/BBC_Top_Stories.xml)
+ - source004 [https://rsshub.app/economist/latest](https://rsshub.app/economist/latest) -> [economist_latest.xml](rss/economist_latest.xml)
+ - source005 [https://rsshub.app/economist/the-world-this-week](https://rsshub.app/economist/the-world-this-week) -> [economist_this_week.xml](rss/economist_this_week.xml)
+ - source006 [https://rsshub.app/economist/china](https://rsshub.app/economist/china) -> [economist_china.xml](rss/economist_china.xml)
+ - source007 [https://rsshub.app/economist/international](https://rsshub.app/economist/international) -> [economist_international.xml](rss/economist_international.xml)
+ - source008 [https://rsshub.app/economist/briefing](https://rsshub.app/economist/briefing) -> [economist_briefing.xml](rss/economist_briefing.xml)
