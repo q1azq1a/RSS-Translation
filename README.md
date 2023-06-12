@@ -24,3 +24,4 @@
  - source011 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
  - source012 [http://bigpicture.typepad.com/comments/atom.xml](http://bigpicture.typepad.com/comments/atom.xml) -> [ritholtz.xml](rss/ritholtz.xml)
  - source013 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
+ - source014 [https://feedx.best/rss/hbr.xml](https://feedx.best/rss/hbr.xml) -> [hbr.xml](rss/hbr.xml)
