@@ -21,4 +21,4 @@
  - source008 [https://rsshub.app/economist/briefing](https://rsshub.app/economist/briefing) -> [economist_briefing.xml](rss/economist_briefing.xml)
  - source009 [https://rsshub.app/economist/business](https://rsshub.app/economist/business) -> [economist_business.xml](rss/economist_business.xml)
  - source010 [https://rsshub.app/economist/finance-and-economics](https://rsshub.app/economist/finance-and-economics) -> [economist_finance-and-economics.xml](rss/economist_finance-and-economics.xml)
- - source011 [https://feeds.feedburner.com/CalculatedRisk](https://feeds.feedburner.com/CalculatedRisk) -> [CalculatedRisk.xml](rss/CalculatedRisk.xml)
+ - source011 [http://www.calculatedriskblog.com/feeds/posts/default](http://www.calculatedriskblog.com/feeds/posts/default) -> [CalculatedRisk.xml](rss/CalculatedRisk.xml)
