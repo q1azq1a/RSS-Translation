@@ -21,4 +21,4 @@
  - source008 [https://rsshub.app/economist/briefing](https://rsshub.app/economist/briefing) -> [economist_briefing.xml](rss/economist_briefing.xml)
  - source009 [https://rsshub.app/economist/business](https://rsshub.app/economist/business) -> [economist_business.xml](rss/economist_business.xml)
  - source010 [https://rsshub.app/economist/finance-and-economics](https://rsshub.app/economist/finance-and-economics) -> [economist_finance-and-economics.xml](rss/economist_finance-and-economics.xml)
- - source011 [http://www.nytimes.com/services/xml/rss/nyt/Travel.xml](http://www.nytimes.com/services/xml/rss/nyt/Travel.xml) -> [nytimes_travel.xml](rss/nytimes_travel.xml)
+ - source011 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
