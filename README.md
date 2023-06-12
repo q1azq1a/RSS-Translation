@@ -22,3 +22,5 @@
  - source009 [https://rsshub.app/economist/business](https://rsshub.app/economist/business) -> [economist_business.xml](rss/economist_business.xml)
  - source010 [https://rsshub.app/economist/finance-and-economics](https://rsshub.app/economist/finance-and-economics) -> [economist_finance-and-economics.xml](rss/economist_finance-and-economics.xml)
  - source011 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
+ - source012 [http://bigpicture.typepad.com/comments/atom.xml](http://bigpicture.typepad.com/comments/atom.xml) -> [ritholtz.xml](rss/ritholtz.xml)
+ - source013 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
