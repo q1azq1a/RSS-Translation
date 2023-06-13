@@ -25,4 +25,4 @@
  - source012 [http://bigpicture.typepad.com/comments/atom.xml](http://bigpicture.typepad.com/comments/atom.xml) -> [ritholtz.xml](rss/ritholtz.xml)
  - source013 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
  - source014 [https://feedx.best/rss/hbr.xml](https://feedx.best/rss/hbr.xml) -> [hbr.xml](rss/hbr.xml)
- - source015 [http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&moduleid=8441&maxcount=25](http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&moduleid=8441&maxcount=25) -> [hubspot_.xml](rss/hubspot_.xml)
+ - source015 [https://blog.hubspot.com/marketing/rss.xml](https://blog.hubspot.com/marketing/rss.xml) -> [hubspot.xml](rss/hubspot.xml)
