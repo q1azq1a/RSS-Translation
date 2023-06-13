@@ -26,3 +26,6 @@
  - source013 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
  - source014 [https://feedx.best/rss/hbr.xml](https://feedx.best/rss/hbr.xml) -> [hbr.xml](rss/hbr.xml)
  - source015 [https://blog.hubspot.com/marketing/rss.xml](https://blog.hubspot.com/marketing/rss.xml) -> [hubspot.xml](rss/hubspot.xml)
+ - source016 [http://feeds.feedburner.com/mitsmr](http://feeds.feedburner.com/mitsmr) -> [feedburner.xml](rss/feedburner.xml)
+ - source017 [https://flowingdata.com/feed](https://flowingdata.com/feed) -> [flowingdata.xml](rss/flowingdata.xml)
+ - source018 [https://digital-photography-school.com//feed](https://digital-photography-school.com//feed) -> [photography.xml](rss/photography.xml)
