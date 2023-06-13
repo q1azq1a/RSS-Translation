@@ -29,3 +29,4 @@
  - source016 [http://feeds.feedburner.com/mitsmr](http://feeds.feedburner.com/mitsmr) -> [feedburner.xml](rss/feedburner.xml)
  - source017 [https://flowingdata.com/feed](https://flowingdata.com/feed) -> [flowingdata.xml](rss/flowingdata.xml)
  - source018 [https://digital-photography-school.com//feed](https://digital-photography-school.com//feed) -> [photography.xml](rss/photography.xml)
+ - source019 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
