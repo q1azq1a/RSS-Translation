@@ -25,3 +25,4 @@
  - source012 [http://bigpicture.typepad.com/comments/atom.xml](http://bigpicture.typepad.com/comments/atom.xml) -> [ritholtz.xml](rss/ritholtz.xml)
  - source013 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
  - source014 [https://feedx.best/rss/hbr.xml](https://feedx.best/rss/hbr.xml) -> [hbr.xml](rss/hbr.xml)
+ - source015 [https://blog.hubspot.com/feed](https://blog.hubspot.com/feed) -> [hubspot.xml](rss/hubspot.xml)
