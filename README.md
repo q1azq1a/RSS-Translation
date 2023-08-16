@@ -30,3 +30,6 @@
  - source017 [https://flowingdata.com/feed](https://flowingdata.com/feed) -> [flowingdata.xml](rss/flowingdata.xml)
  - source018 [https://digital-photography-school.com//feed](https://digital-photography-school.com//feed) -> [photography.xml](rss/photography.xml)
  - source019 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
+ - source020 [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion.xml](rss/noahpinion.xml)
+ - source021 [https://www.lesswrong.com/feed.xml](https://www.lesswrong.com/feed.xml) -> [lesswrong.xml](rss/lesswrong.xml)
+ - source022 [http://feeds.feedburner.com/collabfund](http://feeds.feedburner.com/collabfund) -> [collabfund.xml](rss/collabfund.xml)
