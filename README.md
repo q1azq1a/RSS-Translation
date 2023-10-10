@@ -11,7 +11,8 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [Reuters_china.xml](rss/Reuters_china.xml)
+ - source002 [https://rsshub.app/economist/the-world-this-week?mode=fulltext](https://rsshub.app/economist/the-world-this-week?mode=fulltext) -> [economist_this_week.xml](rss/economist_this_week.xml)
+ - source003 [https://rsshub.app/economist/briefing?mode=fulltext](https://rsshub.app/economist/briefing?mode=fulltext) -> [economist_briefing.xml](rss/economist_briefing.xml)
+ - source004 [https://rsshub.app/economist/business?mode=fulltext](https://rsshub.app/economist/business?mode=fulltext) -> [economist_business.xml](rss/economist_business.xml)
+ - source05 [https://rsshub.app/economist/finance-and-economics?mode=fulltext](https://rsshub.app/economist/finance-and-economics?mode=fulltext) -> [economist_finance-and-economics.xml](rss/economist_finance-and-economics.xml)
