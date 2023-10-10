@@ -32,3 +32,4 @@
  - source020 [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion.xml](rss/noahpinion.xml)
  - source021 [https://www.lesswrong.com/feed.xml](https://www.lesswrong.com/feed.xml) -> [lesswrong.xml](rss/lesswrong.xml)
  - source022 [https://blog.hubspot.com/marketing/rss.xml](https://blog.hubspot.com/marketing/rss.xml) -> [hubspot.xml](rss/hubspot.xml)
+ - source023 [https://www.profgalloway.com/feed](https://www.profgalloway.com/feed) -> [No Mercy](rss/No Mercy)
