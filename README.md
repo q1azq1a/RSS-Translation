@@ -31,3 +31,4 @@
  - source019 [https://marginalrevolution.com//feed](https://marginalrevolution.com//feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
  - source020 [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion.xml](rss/noahpinion.xml)
  - source021 [https://www.lesswrong.com/feed.xml](https://www.lesswrong.com/feed.xml) -> [lesswrong.xml](rss/lesswrong.xml)
+ - source022 [https://blog.hubspot.com/marketing/rss.xml](https://blog.hubspot.com/marketing/rss.xml) -> [hubspot.xml](rss/hubspot.xml)
