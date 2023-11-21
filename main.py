@@ -93,7 +93,8 @@ def tran(sec):
                 e.decompose()
     
     content= str(soup)
-    
+    content=content.replace("<![CDATA[","")
+    content=content.replace("]]>","")
     content=content.replace('title>', 'stitle>')
     content=content.replace( '<pubdate>','<pubDate><span translate="no">')
     content=content.replace( '</pubdate>','</span></pubdate>')
