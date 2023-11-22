@@ -25,3 +25,4 @@
  - source012 [https://www.noahpinion.blog/feed?mode=fulltext](https://www.noahpinion.blog/feed?mode=fulltext) -> [noahpinion.xml](rss/noahpinion.xml)
  - source013 [https://www.lesswrong.com/feed.xml](https://www.lesswrong.com/feed.xml) -> [lesswrong.xml](rss/lesswrong.xml)
  - source014 [https://www.profgalloway.com/feed](https://www.profgalloway.com/feed) -> [No Mercy.xml](rss/No Mercy.xml)
+ - source015 [https://economistnew.buzzing.cc](https://economistnew.buzzing.cc) -> [economistnew.xml](rss/economistnew.xml)
