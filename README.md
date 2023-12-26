@@ -11,4 +11,11 @@
 
 ## 已转换翻译源
 
- - source001 [https://www.scotthyoung.com/blog/feed/](https://www.scotthyoung.com/blog/feed/) -> [Scott_H_Young.xml](rss/Scott_H_Young.xml)
+ - source001 [https://www.scotthyoung.com/blog/feed](https://www.scotthyoung.com/blog/feed) -> [Scott_H_Young.xml](rss/Scott_H_Young.xml)
+ - source003 [https://rsshub.app/economist/latest](https://rsshub.app/economist/latest) -> [economist_latest.xml](rss/economist_latest.xml)
+ - source004 [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
+ - source005 [https://seths.blog//feed](https://seths.blog//feed) -> [seths.xml](rss/seths.xml)
+ - source009 [https://flowingdata.com/feed](https://flowingdata.com/feed) -> [flowingdata.xml](rss/flowingdata.xml)
+ - source010 [https://digital-photography-school.com/feed](https://digital-photography-school.com/feed) -> [photography.xml](rss/photography.xml)
+ - source011 [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
+ - source012 [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion.xml](rss/noahpinion.xml)
