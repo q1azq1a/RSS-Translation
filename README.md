@@ -21,3 +21,4 @@
  - source008 [https://digital-photography-school.com/feed](https://digital-photography-school.com/feed) -> [photography.xml](rss/photography.xml)
  - source009 [https://marginalrevolution.com/feed](https://marginalrevolution.com/feed) -> [marginalrevolution.xml](rss/marginalrevolution.xml)
  - source010 [https://www.noahpinion.blog/feed](https://www.noahpinion.blog/feed) -> [noahpinion.xml](rss/noahpinion.xml)
+ - source011 [https://www.profgalloway.com/feed/](https://www.profgalloway.com/feed/) -> [profgalloway.xml](rss/profgalloway.xml)
